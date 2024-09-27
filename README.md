@@ -9,4 +9,4 @@
 * Text Is All You Need: Learning Language Representations for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599519)
 * A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671474)
 * Leveraging Large Language Models in Conversational Recommender Systems[2023][[PDF]](https://arxiv.org/pdf/2305.07961)
-* Leveraging Large Language Models for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)Harte, Jesse, et al. "Leveraging large language models for sequential recommendation." Proceedings of the 17th ACM Conference on Recommender Systems. 2023.
+* Leveraging Large Language Models for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)[[引用]](javascript:void(0))
