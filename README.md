@@ -20,6 +20,6 @@
 * User-Centric Conversational Recommendation with Multi-Aspect User Modeling[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532074)
 * Learning to Infer User Implicit Preference in Conversational Recommendation[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531844)
   ### 缓解不公平（项目）
-* Alleviating the Long-Tail Problem in Conversational Recommender Systems[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608812)
-* PoPCORN: Human-in-the-Loop Popularity Debiasing in Conversational Recommender Systems[2021][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482461)
-* Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557423)
+  * Alleviating the Long-Tail Problem in Conversational Recommender Systems[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608812)
+  * PoPCORN: Human-in-the-Loop Popularity Debiasing in Conversational Recommender Systems[2021][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482461)
+  * Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557423)
