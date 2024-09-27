@@ -10,3 +10,16 @@
 * A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671474)
 * Leveraging Large Language Models in Conversational Recommender Systems[2023][[PDF]](https://arxiv.org/pdf/2305.07961)
 * Leveraging Large Language Models for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)[[引用]](https://scholar.googleusercontent.com/scholar.bib?q=info:0YpGhnk0oW8J:scholar.google.com/&output=citation&scisdr=ClExitlDEO-XvkFCkSk:AFWwaeYAAAAAZvZEiSnTtE-WeK32ygMsv3CoOmU&scisig=AFWwaeYAAAAAZvZEiYSLaSTbMo3zkJRXtlCj3nc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+* Fair Sequential Recommendation without User Demographics[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657703)
+* Recommender Systems in the Era of Large Language Models (LLMs)[2024][[PDF]](https://arxiv.org/pdf/2307.02046)
+## CRS
+* Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion[2020][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403143)
+* Towards Knowledge-Based Recommender Dialog System[2019][[PDF]](https://arxiv.org/pdf/1908.05391)
+* C2-CRS: Coarse-to-Fine Contrastive Learning for Conversational Recommender System[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3488560.3498514)
+* COLA: Improving Conversational Recommender Systems by Collaborative Augmentation[2023][[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/25567/25339)
+* User-Centric Conversational Recommendation with Multi-Aspect User Modeling[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532074)
+* Learning to Infer User Implicit Preference in Conversational Recommendation[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531844)
+  ### 缓解不公平（项目）
+* Alleviating the Long-Tail Problem in Conversational Recommender Systems[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608812)
+* PoPCORN: Human-in-the-Loop Popularity Debiasing in Conversational Recommender Systems[2021][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482461)
+* Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557423)
