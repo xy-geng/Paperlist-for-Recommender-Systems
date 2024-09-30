@@ -22,4 +22,5 @@
 * Alleviating the Long-Tail Problem in Conversational Recommender Systems[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608812)
 * PoPCORN: Human-in-the-Loop Popularity Debiasing in Conversational Recommender Systems[2021][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482461)
 * Towards Explainable Conversational Recommender Systems[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591884)
+* Improving Conversational Recommender System via Contextual and Time-Aware Modeling with Less Domain-Specific Knowledge[2024][[PDF]](https://arxiv.org/pdf/2209.11386)
 
