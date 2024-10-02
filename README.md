@@ -28,3 +28,5 @@
 * Improving Conversational Recommender System via Contextual and Time-Aware Modeling with Less Domain-Specific Knowledge[2024][[PDF]](https://arxiv.org/pdf/2209.11386)
 * Large language models as zero-shot conversational recommenders.[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614949)
 * Leveraging Large Language Models in Conversational Recommender Systems[2023][[PDF]](https://arxiv.org/pdf/2305.07961)
+## #
+* Decentralized collaborative learning framework for next POI recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3555374)
