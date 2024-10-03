@@ -28,5 +28,9 @@
 * Improving Conversational Recommender System via Contextual and Time-Aware Modeling with Less Domain-Specific Knowledge[2024][[PDF]](https://arxiv.org/pdf/2209.11386)
 * Large language models as zero-shot conversational recommenders.[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614949)
 * Leveraging Large Language Models in Conversational Recommender Systems[2023][[PDF]](https://arxiv.org/pdf/2305.07961)
+* Improving conversational recommendation systems via counterfactual data simulation.[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599387)
+* Counterfactual explainable conversational recommendation[2023][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10273224)
+* Broadening the View: Demonstration-augmented Prompt Learning for Conversational Recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657755)
+* Conversational Recommendation with Online Learning and Clustering on Misspecified Users[2024][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10586787)
 ## #
 * Decentralized collaborative learning framework for next POI recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3555374)
