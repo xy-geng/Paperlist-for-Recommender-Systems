@@ -33,5 +33,6 @@
 * Broadening the View: Demonstration-augmented Prompt Learning for Conversational Recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657755)
 * Conversational Recommendation with Online Learning and Clustering on Misspecified Users[2024][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10586787)
 * UserSimCRS: a user simulation toolkit for evaluating conversational recommender systems.[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539597.3573029)
+* Online Learning and Detecting Corrupted Users for Conversational Recommendation Systems[2024][[PDF]](https://ieeexplore.ieee.org/iel8/69/4358933/10643701.pdf)
 ## #
 * Decentralized collaborative learning framework for next POI recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3555374)
