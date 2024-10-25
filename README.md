@@ -16,7 +16,13 @@
 * Text Is All You Need: Learning Language Representations for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599519)
 * Leveraging Large Language Models for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)
 * Dual contrastive transformer for hierarchical preference modeling in sequential recommendation[2023][PDF](https://dl.acm.org/doi/pdf/10.1145/3539618.3591672)
-* 
+* Sequential recommendation with multiple contrast signals[2023][PDF](https://dl.acm.org/doi/pdf/10.1145/3522673)
+* Adaptive disentangled transformer for sequential recommendation[2023][PDF](https://dl.acm.org/doi/pdf/10.1145/3580305.3599253)
+* Attention mixtures for time-aware sequential recommendation[2023][PDF](https://dl.acm.org/doi/pdf/10.1145/3539618.3591951)
+* A generic learning framework for sequential recommendation with distribution shifts[2023][PDF](https://dl.acm.org/doi/pdf/10.1145/3539618.3591624)
+* Multi-intention oriented contrastive learning for sequential recommendation[2023][PDF](https://dl.acm.org/doi/pdf/10.1145/3539597.3570411)
+* MELT: Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation[2023][PDF](https://dl.acm.org/doi/pdf/10.1145/3539618.3591725)
+* Adaptive multi-modalities fusion in sequential recommendation systems[2023][PDF](https://dl.acm.org/doi/pdf/10.1145/3583780.3614775)
 ## Conversational Recommender Systems
 * Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion[2020][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403143)
 * Towards Knowledge-Based Recommender Dialog System[2019][[PDF]](https://arxiv.org/pdf/1908.05391)
