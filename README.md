@@ -2,17 +2,7 @@
 
 ## Survey Papers
 * Bias and Debias in Recommender System: A Survey and Future Directions[2020][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3564284)
-## Large language models for recommendation
-* Recommender Systems in the Era of Large Language Models (LLMs)[2024][[PDF]](https://arxiv.org/pdf/2307.02046)
-* Large language models for recommendation: Progresses and future directions[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3624918.3629550)
-* Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671931)
-* A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671474)
-## Fair CRS
-* Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608860)
-* The Impact of Group Membership Bias on the Quality and Fairness of Exposure in Ranking[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657752)
-* FairCRS: Towards User-oriented Fairness in Conversational Recommendation Systems[2024]
-* Fair Sequential Recommendation without User Demographics[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657703)
-## Sequential Recommendation
+  ## Sequential Recommendation
 * Text Is All You Need: Learning Language Representations for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599519)
 * Leveraging Large Language Models for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)
 * Dual contrastive transformer for hierarchical preference modeling in sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591672)
@@ -23,6 +13,23 @@
 * Multi-intention oriented contrastive learning for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570411)
 * MELT: Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591725)
 * Adaptive multi-modalities fusion in sequential recommendation systems[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614775)
+* Debiased contrastive learning for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583361)
+* Position-enhanced and time-aware graph convolutional network for sequential recommendations[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511700)
+* An attentive inductive bias for sequential recommendation beyond the self-attention[2024][[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28747/29438)
+* APGL4SR: A Generic Framework with Adaptive and Personalized Global Collaborative Information in Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614781)
+* Learning dual-view user representations for enhanced sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3572028)
+* 
+## Large language models for recommendation
+* Recommender Systems in the Era of Large Language Models (LLMs)[2024][[PDF]](https://arxiv.org/pdf/2307.02046)
+* Large language models for recommendation: Progresses and future directions[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3624918.3629550)
+* Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671931)
+* A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671474)
+## Fair CRS
+* Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608860)
+* The Impact of Group Membership Bias on the Quality and Fairness of Exposure in Ranking[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657752)
+* FairCRS: Towards User-oriented Fairness in Conversational Recommendation Systems[2024]
+* Fair Sequential Recommendation without User Demographics[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657703)
+
 ## Conversational Recommender Systems
 * Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion[2020][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403143)
 * Towards Knowledge-Based Recommender Dialog System[2019][[PDF]](https://arxiv.org/pdf/1908.05391)
