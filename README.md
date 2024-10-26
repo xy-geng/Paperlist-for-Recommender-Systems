@@ -2,7 +2,11 @@
 
 ## Survey Papers
 * Bias and Debias in Recommender System: A Survey and Future Directions[2020][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3564284)
-  ## Sequential Recommendation
+## Sequential Recommendation
+* Debiased contrastive learning for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583361)
+* MELT: Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591725)
+* Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers[2022][KDD][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539430)
+* Make fairness more fair: Fair item utility estimation and exposure re-distribution[2022][KDD][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539354)
 * Text Is All You Need: Learning Language Representations for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599519)
 * Leveraging Large Language Models for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)
 * Dual contrastive transformer for hierarchical preference modeling in sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591672)
@@ -11,15 +15,23 @@
 * Attention mixtures for time-aware sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591951)
 * A generic learning framework for sequential recommendation with distribution shifts[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591624)
 * Multi-intention oriented contrastive learning for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570411)
-* MELT: Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591725)
 * Adaptive multi-modalities fusion in sequential recommendation systems[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614775)
-* Debiased contrastive learning for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583361)
 * Position-enhanced and time-aware graph convolutional network for sequential recommendations[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511700)
 * An attentive inductive bias for sequential recommendation beyond the self-attention[2024][[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28747/29438)
 * APGL4SR: A Generic Framework with Adaptive and Personalized Global Collaborative Information in Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614781)
 * Learning dual-view user representations for enhanced sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3572028)
+* Aspect re-distribution for learning better item embeddings in sequential recommendation[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3523227.3546764)
+* Context and attribute-aware sequential recommendation via cross-attention[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3523227.3546777)
+* Effective and efficient training for sequential recommendation using recency sampling[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3523227.3546785)
+* Disentangling past-future modeling in sequential recommendation via dual networks[2021][CIKM][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557289)
+* It is different when items are older: Debiasing recommendations when selection bias and user preferences are dynamic[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3488560.3498375)
+* Filter-enhanced MLP is all you need for sequential recommendation[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3488560.3498375)
+* Unbiased sequential recommendation with latent confounders[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512092)
+* Sequential recommendation with decomposed item feature routing[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512101)
+* MLP4Rec: A Pure MLP Architecture for Sequential Recommendations[2022][[PDF]](https://arxiv.org/pdf/2204.11510)
 * 
 ## Large language models for recommendation
+
 * Recommender Systems in the Era of Large Language Models (LLMs)[2024][[PDF]](https://arxiv.org/pdf/2307.02046)
 * Large language models for recommendation: Progresses and future directions[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3624918.3629550)
 * Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671931)
