@@ -3,13 +3,16 @@
 ## Survey Papers
 * Bias and Debias in Recommender System: A Survey and Future Directions[2020][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3564284)
 ## Sequential Recommendation
+* Fair Sequential Recommendation without User Demographics[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657703)
+*Generative Session-based Recommendation[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512095)
+* Mutual wasserstein discrepancy minimization for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583529)
+* FineRec: Exploring Fine-grained Sequential Recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657761)
+* The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation[2024][[PDF]](https://arxiv.org/pdf/2403.10135)
+* Intelligent model update strategy for sequential recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645316)
 * An attentive inductive bias for sequential recommendation beyond the self-attention[2024][[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28747/29438)
 * Debiased contrastive learning for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583361)
-* MELT: Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591725)
 * Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers[2022][KDD][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539430)
-* Make fairness more fair: Fair item utility estimation and exposure re-distribution[2022][KDD][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539354)
 * Text Is All You Need: Learning Language Representations for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599519)
-* Leveraging Large Language Models for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)
 * Dual contrastive transformer for hierarchical preference modeling in sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591672)
 * Sequential recommendation with multiple contrast signals[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3522673)
 * Adaptive disentangled transformer for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599253)
@@ -24,27 +27,32 @@
 * Context and attribute-aware sequential recommendation via cross-attention[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3523227.3546777)
 * Effective and efficient training for sequential recommendation using recency sampling[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3523227.3546785)
 * Disentangling past-future modeling in sequential recommendation via dual networks[2021][CIKM][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557289)
-* It is different when items are older: Debiasing recommendations when selection bias and user preferences are dynamic[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3488560.3498375)
 * Filter-enhanced MLP is all you need for sequential recommendation[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3488560.3498375)
 * Unbiased sequential recommendation with latent confounders[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512092)
 * Sequential recommendation with decomposed item feature routing[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512101)
 * MLP4Rec: A Pure MLP Architecture for Sequential Recommendations[2022][[PDF]](https://arxiv.org/pdf/2204.11510)
+## Long-tail
+* MELT: Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591725)
+## Cross-domain Recommendation
 * Joint internal multi-interest exploration and external domain alignment for cross domain sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583366)
-* Mutual wasserstein discrepancy minimization for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583529)
-* 
+  
+## Large language models for Sequential Recommendation
+* Enhancing sequential recommendation via llm-based semantic embedding learning[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307)
+* LoRec: Combating Poisons with Large Language Model for Robust Sequential Recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657684)
+* Sequential recommendation with latent relations based on large language model[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657762)
+* Leveraging Large Language Models for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)
 ## Large language models for recommendation
-
 * Recommender Systems in the Era of Large Language Models (LLMs)[2024][[PDF]](https://arxiv.org/pdf/2307.02046)
 * Large language models for recommendation: Progresses and future directions[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3624918.3629550)
 * Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671931)
 * A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671474)
-## Fair CRS
+## Fair in Recommender System
 * Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608860)
 * The Impact of Group Membership Bias on the Quality and Fairness of Exposure in Ranking[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657752)
-* FairCRS: Towards User-oriented Fairness in Conversational Recommendation Systems[2024]
-* Fair Sequential Recommendation without User Demographics[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657703)
-
+* Make fairness more fair: Fair item utility estimation and exposure re-distribution[2022][KDD][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539354)
+* It is different when items are older: Debiasing recommendations when selection bias and user preferences are dynamic[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3488560.3498375)
 ## Conversational Recommender Systems
+* FairCRS: Towards User-oriented Fairness in Conversational Recommendation Systems[2024]
 * Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion[2020][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403143)
 * Towards Knowledge-Based Recommender Dialog System[2019][[PDF]](https://arxiv.org/pdf/1908.05391)
 * C2-CRS: Coarse-to-Fine Contrastive Learning for Conversational Recommender System[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3488560.3498514)
