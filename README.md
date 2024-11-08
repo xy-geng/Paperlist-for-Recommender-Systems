@@ -36,17 +36,23 @@
 ## Cross-domain Recommendation
 * Joint internal multi-interest exploration and external domain alignment for cross domain sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583366)
   
-## Large language models for Sequential Recommendation
+## Large language models for Sequential Recommendation/Session
 * Enhancing sequential recommendation via llm-based semantic embedding learning[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307)
 * LoRec: Combating Poisons with Large Language Model for Robust Sequential Recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657684)
 * Sequential recommendation with latent relations based on large language model[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657762)
 * Leveraging Large Language Models for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)
+* Harnessing large language models for text-rich sequential recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645358)
+* Rella: Retrieval-enhanced large language models for lifelong sequential behavior comprehension in recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645467)
+* Large language models for intent-driven session recommendations[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657688)
 ## Large language models for recommendation
 * Recommender Systems in the Era of Large Language Models (LLMs)[2024][[PDF]](https://arxiv.org/pdf/2307.02046)
 * Large language models for recommendation: Progresses and future directions[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3624918.3629550)
 * Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671931)
 * A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671474)
+* Large Language Models as Data Augmenters for Cold-Start Item Recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589335.3651532)
+  
 ## Fair in Recommender System
+* Item-side Fairness of Large Language Model-based Recommendation System[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3648158)
 * Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608860)
 * The Impact of Group Membership Bias on the Quality and Fairness of Exposure in Ranking[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657752)
 * Make fairness more fair: Fair item utility estimation and exposure re-distribution[2022][KDD][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539354)
