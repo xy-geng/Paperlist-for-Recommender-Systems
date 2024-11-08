@@ -3,15 +3,11 @@
 ## Survey Papers
 * Bias and Debias in Recommender System: A Survey and Future Directions[2020][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3564284)
 ## Sequential Recommendation
-* Fair Sequential Recommendation without User Demographics[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657703) 
 * Generative Session-based Recommendation[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512095)
 * Mutual wasserstein discrepancy minimization for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583529)
 * FineRec: Exploring Fine-grained Sequential Recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657761)
 * The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation[2024][[PDF]](https://arxiv.org/pdf/2403.10135)
 * Intelligent model update strategy for sequential recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645316)
-* An attentive inductive bias for sequential recommendation beyond the self-attention[2024][[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28747/29438)
-* Debiased contrastive learning for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583361)
-* Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers[2022][KDD][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539430)
 * Text Is All You Need: Learning Language Representations for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599519)
 * Dual contrastive transformer for hierarchical preference modeling in sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591672)
 * Sequential recommendation with multiple contrast signals[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3522673)
@@ -28,9 +24,14 @@
 * Effective and efficient training for sequential recommendation using recency sampling[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3523227.3546785)
 * Disentangling past-future modeling in sequential recommendation via dual networks[2021][CIKM][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557289)
 * Filter-enhanced MLP is all you need for sequential recommendation[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3488560.3498375)
-* Unbiased sequential recommendation with latent confounders[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512092)
 * Sequential recommendation with decomposed item feature routing[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512101)
 * MLP4Rec: A Pure MLP Architecture for Sequential Recommendations[2022][[PDF]](https://arxiv.org/pdf/2204.11510)
+## Fair in Sequential Recommender System
+* Fair Sequential Recommendation without User Demographics[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657703)
+* An attentive inductive bias for sequential recommendation beyond the self-attention[2024][[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28747/29438)
+* Debiased contrastive learning for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583361)
+* Unbiased sequential recommendation with latent confounders[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512092)
+* Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers[2022][KDD][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539430)
 ## Long-tail
 * MELT: Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591725)
 ## Cross-domain Recommendation
