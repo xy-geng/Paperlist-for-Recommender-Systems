@@ -3,7 +3,6 @@
 ## Survey Papers
 * Bias and Debias in Recommender System: A Survey and Future Directions[2020][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3564284)
 ## Sequential Recommendation
-* Generative Session-based Recommendation[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512095)
 * Mutual wasserstein discrepancy minimization for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583529)
 * FineRec: Exploring Fine-grained Sequential Recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657761)
 * The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation[2024][[PDF]](https://arxiv.org/pdf/2403.10135)
@@ -45,6 +44,7 @@
 * Harnessing large language models for text-rich sequential recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645358)
 * Rella: Retrieval-enhanced large language models for lifelong sequential behavior comprehension in recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645467)
 * Large language models for intent-driven session recommendations[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657688)
+* Generative Session-based Recommendation[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512095)
 ## Large language models for recommendation
 * Recommender Systems in the Era of Large Language Models (LLMs)[2024][[PDF]](https://arxiv.org/pdf/2307.02046)
 * Large language models for recommendation: Progresses and future directions[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3624918.3629550)
