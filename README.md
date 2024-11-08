@@ -3,6 +3,10 @@
 ## Survey Papers
 * Bias and Debias in Recommender System: A Survey and Future Directions[2020][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3564284)
 ## Sequential Recommendation
+* MISSRec: Pre-training and transferring multi-modal interest-aware sequence representation for recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3581783.3611967)
+* Learning vector-quantized item representation for transferable sequential recommenders[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583434)
+* Graph masked autoencoder for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591692)
+* Linrec: Linear attention mechanism for long-term sequential recommender systems
 * Mutual wasserstein discrepancy minimization for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583529)
 * FineRec: Exploring Fine-grained Sequential Recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657761)
 * The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation[2024][[PDF]](https://arxiv.org/pdf/2403.10135)
@@ -31,8 +35,13 @@
 * Debiased contrastive learning for sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583361)
 * Unbiased sequential recommendation with latent confounders[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512092)
 * Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers[2022][KDD][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539430)
+* Text Matching Improves Sequential Recommendation by Reducing Popularity Biases[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3615077)
+* 
 ## Long-tail
 * MELT: Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591725)
+* Parameters Efficient Fine-Tuning for Long-Tailed Sequential Recommendation[2023]
+* Causal embedding of user interest and conformity for long-tail session-based recommendations[2023][[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025523007521)
+* Co-occurrence Embedding Enhancement for Long-tail Problem in Multi-Interest Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608835)
 ## Cross-domain Recommendation
 * Joint internal multi-interest exploration and external domain alignment for cross domain sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583366)
   
@@ -43,8 +52,11 @@
 * Leveraging Large Language Models for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)
 * Harnessing large language models for text-rich sequential recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645358)
 * Rella: Retrieval-enhanced large language models for lifelong sequential behavior comprehension in recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645467)
+* Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item[2024][[PDF]](https://arxiv.org/pdf/2405.20646)
+* Customizing Language Models with Instance-wise LoRA for Sequential Recommendation[2024][[PDF]](https://arxiv.org/pdf/2408.10159)
 * Large language models for intent-driven session recommendations[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657688)
 * Generative Session-based Recommendation[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512095)
+  
 ## Large language models for recommendation
 * Recommender Systems in the Era of Large Language Models (LLMs)[2024][[PDF]](https://arxiv.org/pdf/2307.02046)
 * Large language models for recommendation: Progresses and future directions[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3624918.3629550)
