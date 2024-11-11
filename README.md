@@ -52,7 +52,7 @@
 * Leveraging Large Language Models for Sequential Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3610639)
 * Harnessing large language models for text-rich sequential recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645358)
 * Rella: Retrieval-enhanced large language models for lifelong sequential behavior comprehension in recommendation[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645467)
-* Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item[2024][[PDF]](https://arxiv.org/pdf/2405.20646)
+* LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation[2024][[PDF]](https://arxiv.org/pdf/2405.20646)
 * Customizing Language Models with Instance-wise LoRA for Sequential Recommendation[2024][[PDF]](https://arxiv.org/pdf/2408.10159)
 * Large language models for intent-driven session recommendations[2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657688)
 * Generative Session-based Recommendation[2022][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512095)
