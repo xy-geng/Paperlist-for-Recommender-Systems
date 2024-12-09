@@ -42,6 +42,7 @@
 * Parameters Efficient Fine-Tuning for Long-Tailed Sequential Recommendation[2023]
 * Causal embedding of user interest and conformity for long-tail session-based recommendations[2023][[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025523007521)
 * Co-occurrence Embedding Enhancement for Long-tail Problem in Multi-Interest Recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608835)
+* Cross-task multimodal reinforcement for long tail next poi recommendation[2023][PDF](https://ieeexplore.ieee.org/abstract/document/10176270/)
 ## Cross-domain Recommendation
 * Joint internal multi-interest exploration and external domain alignment for cross domain sequential recommendation[2023][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583366)
   
